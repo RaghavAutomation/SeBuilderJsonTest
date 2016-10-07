@@ -1,0 +1,696 @@
+Oct 04, 2016 10:19:01 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:19:01 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:19:16 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:19:17 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:19:29 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:19:29 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:19:41 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:19:41 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:19:50 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:19:50 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:20:00 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:20:00 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:20:11 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:20:11 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:20:30 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:20:30 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:20:50 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:20:50 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:21:05 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:21:05 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:21:24 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:21:24 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:21:35 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:21:36 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:21:51 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:21:51 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:22:06 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 10:22:06 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 10:22:37 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: adef2714-3f6b-e443-a88e-026bc7e527c6
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous8007392148674248613webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous8007392148674248613webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous8007392148674248613webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous8007392148674248613webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous8007392148674248613webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:22:43 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 24d0bc68-7281-3a41-b0cd-ff0494ab2e84
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous557582653470989501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous557582653470989501webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous557582653470989501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous557582653470989501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous557582653470989501webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:22:48 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 99426c75-6043-f040-aa24-f9015a6bf80c
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3282925206324062931webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3282925206324062931webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3282925206324062931webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3282925206324062931webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3282925206324062931webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:22:53 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1384cd23-f725-3d40-9688-aad3c79bc30c
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5016169033654239139webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5016169033654239139webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5016169033654239139webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5016169033654239139webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5016169033654239139webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:23:18 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c88895e0-488e-2a4e-9c5f-3895e6c27fb7
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7014686892657525094webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7014686892657525094webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7014686892657525094webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7014686892657525094webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7014686892657525094webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:23:23 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 101df6a7-bacd-964a-994c-5126ca2fa9fb
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7908350128572368513webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7908350128572368513webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7908350128572368513webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7908350128572368513webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7908350128572368513webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:23:28 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 33c72810-fdc3-a74d-b1db-23eb4c31aa1b
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6096968935632106939webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6096968935632106939webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6096968935632106939webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6096968935632106939webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6096968935632106939webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:23:53 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4ead0871-2006-c346-a5a2-663ad0b7de96
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6942809885908465576webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6942809885908465576webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6942809885908465576webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6942809885908465576webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous6942809885908465576webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:21 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 09ac651c-2df7-b447-ab15-fb64f6197def
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous9052415965576383347webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous9052415965576383347webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous9052415965576383347webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous9052415965576383347webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous9052415965576383347webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:33 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0762349e-a8f7-f043-8791-c5dc7d3ac7cf
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous1300491642677628627webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous1300491642677628627webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous1300491642677628627webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous1300491642677628627webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous1300491642677628627webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:40 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 462930cf-ca8d-bd4d-976e-38f745e631bf
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3295412816043704702webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3295412816043704702webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3295412816043704702webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3295412816043704702webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3295412816043704702webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:43 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 36 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: de1bf3e4-b68c-0349-bb42-2fa79b003720
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3348993870651706295webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3348993870651706295webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3348993870651706295webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3348993870651706295webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous3348993870651706295webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:47 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 89396483-e900-484e-89d7-10442c8bcb31
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous480871382151691353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous480871382151691353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous480871382151691353webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous480871382151691353webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous480871382151691353webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:51 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fd409799-4eea-904c-84c0-e6ea31c849bd
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7795949583702078493webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7795949583702078493webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7795949583702078493webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7795949583702078493webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7795949583702078493webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:55 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 808041ad-5a47-ea4b-b289-b63c609a9b25
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5186937850202583158webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5186937850202583158webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5186937850202583158webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5186937850202583158webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous5186937850202583158webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+
+Oct 04, 2016 10:24:58 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+java.lang.RuntimeException: {"negated":false,"text":"${username}","type":"SetElementText","locator":{"type":"id","value":"user_login"}} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1e26fd71-d6bf-b543-9b44-f560f9dc41a4
+*** Element info: {Using=id, value=user_login}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at com.sebuilder.interpreter.Locator$Type$1.find(Locator.java:75)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.SetElementText.run(SetElementText.java:26)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"user_login"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.43', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.8.0_101'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7601875283097397417webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7601875283097397417webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7601875283097397417webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7601875283097397417webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous7601875283097397417webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+

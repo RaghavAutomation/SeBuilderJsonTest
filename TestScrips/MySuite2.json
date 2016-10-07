@@ -1,0 +1,28 @@
+{
+  "type": "suite",
+  "seleniumVersion": "2",
+  "formatVersion": 1,
+  "scripts": [
+    {
+      "where": "local",
+      "path": "1.json"
+    },
+    {
+      "where": "local",
+      "path": "1.json"
+    },
+    {
+      "where": "local",
+      "path": "2.json"
+    },
+    {
+      "where": "local",
+      "path": "3.json"
+    },
+    {
+      "where": "local",
+      "path": "4.json"
+    }
+  ],
+  "shareState": false
+}

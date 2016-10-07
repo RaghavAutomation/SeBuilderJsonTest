@@ -1,0 +1,40 @@
+Oct 03, 2016 2:51:14 PM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/SeBuilderTestSuite/CFTTest1.json failed
+java.lang.RuntimeException: {"locator":{"value":"Tarandeep Singh","type":"link text"},"type":"ClickElement","negated":false} failed.
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:154)
+	at com.sebuilder.interpreter.TestRun.finish(TestRun.java:196)
+	at com.sebuilder.interpreter.SeInterpreter.main(SeInterpreter.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Tarandeep Singh"}
+Command duration or timeout: 3.36 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.42', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.7.0_79'
+*** Element info: {Using=link text, value=Tarandeep Singh}
+Session ID: 4d5a0f7a-482f-6c45-a4a0-5ad8a12a94e9
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=39.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:428)
+	at com.sebuilder.interpreter.Locator$Type$3.find(Locator.java:95)
+	at com.sebuilder.interpreter.Locator.find(Locator.java:48)
+	at com.sebuilder.interpreter.steptype.ClickElement.run(ClickElement.java:25)
+	at com.sebuilder.interpreter.TestRun.next(TestRun.java:152)
+	... 2 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Tarandeep Singh"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'MBFIN026.local', ip: '192.168.100.42', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.4', java.version: '1.7.0_79'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous520717254539231218webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous520717254539231218webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous520717254539231218webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous520717254539231218webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///var/folders/04/404xtqgs6bl2lhw8c66myxc8py0vbt/T/anonymous520717254539231218webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+

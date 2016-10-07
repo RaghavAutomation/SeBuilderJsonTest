@@ -1,0 +1,8 @@
+Oct 04, 2016 9:42:46 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json succeeded
+Oct 04, 2016 9:42:56 AM com.sebuilder.interpreter.SeInterpreter next
+SEVERE: {"negated":false,"text":"${message}","type":"verifyTextPresent"} failed.
+Oct 04, 2016 9:42:56 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json failed
+Oct 04, 2016 9:43:05 AM com.sebuilder.interpreter.SeInterpreter main
+INFO: /Users/raghav/Desktop/Tools/SeleniumBuilder/SeBuilderDataDrivenTest/Test1.json succeeded
